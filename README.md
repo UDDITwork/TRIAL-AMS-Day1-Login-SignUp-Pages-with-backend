@@ -18,14 +18,7 @@ Read more about this project: [Twitter Thread](https://x.com/UdditRise/status/18
 
 A robust authentication system built with Node.js, Express, and MongoDB, capable of handling 100,000+ student registrations.
 
-## Features
-
-- User registration with unique ID
-- Secure password hashing
-- Login authentication
-- MongoDB database integration
-- Scalable architecture
-
+npm install nodemailer
 ## Prerequisites
 
 - Node.js (v14 or higher)
