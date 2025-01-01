@@ -39,14 +39,13 @@ A robust authentication system built with Node.js, Express, and MongoDB, capable
    - Choose "Complete" installation
    - Select "Install MongoDB as a Service"
 
-2. Clone the repository:
-```bash
-git clone <your-repo-url>
-cd student-auth-system
-```
+## We have to install mongodb compass gui, mongodb set up install msi install , then open windows cmd with open as administrator , and there type "net start MongoDB"
+![image](https://github.com/user-attachments/assets/298aec9b-6bd2-4330-994d-5e31392eb641)
+
 
 3. Install dependencies:
 ```bash
+npm init -y 
 npm install express mongoose bcrypt
 ```
 
@@ -68,6 +67,8 @@ project/
 ```bash
 node server.js
 ```
+![image](https://github.com/user-attachments/assets/a62917a7-2e69-49a6-8bc7-c47abc5b1e1d)
+
 
 7. Access the application:
 - Registration: http://localhost:3000/registration.html
@@ -113,31 +114,5 @@ MongoDB Schema:
    - Database: studentDB
    - Collection: students
 
-## Performance
-
-- Handles 100,000+ student records
-- Optimized database queries
-- Efficient password hashing
-
-## Error Handling
-
-- Duplicate user IDs
-- Invalid credentials
-- Server errors
-- Database connection issues
-
-## Contributing
-
-1. Fork the repository
-2. Create feature branch
-3. Commit changes
-4. Push to branch
-5. Create Pull Request
-
-## License
-
-MIT License - feel free to use and modify
-
-## Support
-
-For issues and feature requests, please create an issue in the repository.
+![image](https://github.com/user-attachments/assets/b3a22093-2ee2-446d-a8e6-9a4cb2dc71ce)
+https://x.com/UdditRise/status/1874242850797609454
