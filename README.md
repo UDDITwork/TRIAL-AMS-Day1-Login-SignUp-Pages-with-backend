@@ -18,7 +18,7 @@ Read more about this project: [Twitter Thread](https://x.com/UdditRise/status/18
 
 A robust authentication system built with Node.js, Express, and MongoDB, capable of handling 100,000+ student registrations.
 
-npm install nodemailer
+npm install nodemailer ---- otp generate karne ke liye -aur ek email setup karke usme se app password nikalna hoga jo nodemailer me use hoga !
 ## Prerequisites
 
 - Node.js (v14 or higher)
